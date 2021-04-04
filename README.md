@@ -5,7 +5,7 @@
 
 ### DevEnne
 
-- [ 네이버 지식IN ](https://kin.naver.com/profile/index.nhn?u=R8c0kCLxWl94Smo6czVBxj1ypxx2esJaBY5JIOj7VmA%3D) ( 2018.3 ~ 20xx.xx ) |
+- [ 네이버 지식IN ](https://kin.naver.com/profile/index.nhn?u=R8c0kCLxWl94Smo6czVBxj1ypxx2esJaBY5JIOj7VmA%3D) ( 2018.3 ~ 20xx.xx )
 네이버 지식인 랭크 [ 초인 ] 달성, 아이폰 , 데스크탑 관련 답변을 진행하고 있습니다.
  
 - [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2021.03 ~ 2021.12)    
