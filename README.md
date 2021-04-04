@@ -8,7 +8,7 @@
 - [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2021.03 ~ 2021.12)    
 목포대학교 정보보호영재교육원에서 2021학년도 고등기초심화 과정을을 공부하고 있습니다.
 
-- [Internet Novel ChatBot](https://corona-19.kr/) (2020.06 ~ 20xx.xx)    
+- [Internet Novel ChatBot](https://hamdan.kr) (2020.06 ~ 20xx.xx)    
 인소의 법칙 챗봇을 운영중에 있습니다.
 ---
 
