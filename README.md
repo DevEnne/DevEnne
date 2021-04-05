@@ -8,13 +8,13 @@ Hi there 👋
 - [ Naver KnowledgeIn ](https://kin.naver.com/profile/index.nhn?u=R8c0kCLxWl94Smo6czVBxj1ypxx2esJaBY5JIOj7VmA%3D) ( 2018.3 ~ 20xx.xx )   
 네이버 지식인 랭크 [ 초인 ] 달성. 아이폰 , 데스크탑 관련 답변을 진행하고 있습니다.
  
-- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2021.03 ~ 2021.12)    
+- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) ( 2021.03 ~ 2021.12 )    
 목포대학교 정보보호영재교육원에서 2021학년도 정보보호 고등기초심화 과정을 공부하고 있습니다.
 
-- [Internet Novel ChatBot](https://hamdan.kr) (2020.06 ~ 20xx.xx)    
+- [Internet Novel ChatBot](https://hamdan.kr) ( 2020.06 ~ 20xx.xx )    
 인소의 법칙 챗봇을 Kakao i OpenBulider로 제작, 운영중에 있습니다.
 
-- [GoodByeCorona_Collaboration](https://api.corona-19.kr) (2021.02.24 ~ 20xx.xx )    
+- [GoodByeCorona_Collaboration](https://api.corona-19.kr) ( 2021.02.24 ~ 20xx.xx )    
 굿바이코로나의 제휴로, 인소의 법칙 챗봇에 코로나19 서비스를 제공하고 있습니다.
 ---
 
