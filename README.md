@@ -14,6 +14,10 @@ Hi there 👋
 - [Internet Novel ChatBot](https://hamdan.kr) ( 2020.06 ~ 20xx.xx )    
 인소의 법칙 챗봇을 Kakao i OpenBulider로 제작, 운영중에 있습니다.
 
+- [Internet Novel Chatbot Japanese Service](https://hamdan.kr/jp.html) ( 2021.04 ~ 20xx.xx ]
+인소의 법칙 챗봇 일본 서비스를 현재 제작중에 있습니다.
+ネット小説の法則  チャットボット 日本のサービスは現在準備中です。
+
 - [GoodByeCorona_Collaboration](https://api.corona-19.kr) ( 2021.02.24 ~ 20xx.xx )    
 굿바이코로나의 제휴로, 인소의 법칙 챗봇에 코로나19 서비스를 제공하고 있습니다.
 ---
