@@ -18,7 +18,7 @@ Hi there 👋
 인소의 법칙 챗봇 일본 서비스를 현재 제작중에 있습니다.
 ネット小説の法則  チャットボット 日本のサービスは現在準備中です。
 
-- [GoodByeCorona_Collaboration](https://api.corona-19.kr) ( 2021.02.24 ~ 20xx.xx )    
+- [GoodByeCorona_Collaboration](https://github.com/dhlife09/Corona-19-API) ( 2021.02.24 ~ 20xx.xx )    
 굿바이코로나의 제휴로, 인소의 법칙 챗봇에 코로나19 서비스를 제공하고 있습니다.
 ---
 
