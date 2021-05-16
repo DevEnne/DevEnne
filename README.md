@@ -18,7 +18,7 @@ Hi there 👋
 인소의 법칙 챗봇 일본 서비스를 현재 제작중에 있습니다.
 ネット小説の法則  チャットボット 日本のサービスは現在準備中です。
 
-- [Coronainfo - ChatBot](http://pf.kakao.com/_FFAtK) ( 2021.05.17 ~ 20xx.xx )    
+- [CoronaInfo - ChatBot](http://pf.kakao.com/_FFAtK) ( 2021.05.17 ~ 20xx.xx )    
 코로나인포의 카카오톡 챗봇을 운영중에 있습니다. ( 코로나 API 연습 , 테스트용 )
 
 - [GoodByeCorona_Collaboration](https://github.com/dhlife09/Corona-19-API) ( 2021.02.24 ~ 20xx.xx )    
