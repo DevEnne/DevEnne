@@ -20,7 +20,6 @@ Hi there 👋
 
 - [Coronainfo - ChatBot](http://pf.kakao.com/_FFAtK) ( 2021.05.17 ~ 20xx.xx )    
 코로나인포의 카카오톡 챗봇을 운영중에 있습니다. ( 코로나 API 연습 , 테스트용 )
----
 
 - [GoodByeCorona_Collaboration](https://github.com/dhlife09/Corona-19-API) ( 2021.02.24 ~ 20xx.xx )    
 굿바이코로나의 제휴로, 인소의 법칙 챗봇에 코로나19 서비스를 제공하고 있습니다.
