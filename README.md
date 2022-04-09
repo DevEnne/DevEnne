@@ -11,6 +11,9 @@ Hi there 👋
 - [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) ( 2021.03 ~ 2021.11 )    
 목포대학교 정보보호영재교육원에서 2021학년도 정보보호 고등기초심화 과정을 이수하였습니다.
 
+- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) ( 2022.04 ~ 2022.11 )    
+목포대학교 정보보호영재교육원에서 2021학년도 정보보호 고등전문 과정을 배우고 있습니다.
+
 - [Internet Novel ChatBot](https://hamdan.kr) ( 2020.06 ~ 20xx.xx )    
 인소의 법칙 챗봇을 Kakao i OpenBulider로 제작, 운영중에 있습니다.
 
