@@ -17,13 +17,8 @@ Hi there 👋
 - [Internet Novel ChatBot](https://hamdan.kr) ( 2020.06 ~ 20xx.xx )    
 인소의 법칙 챗봇을 Kakao i OpenBulider로 제작, 운영중에 있습니다.
 
-- [ Internet Novel Chatbot Japanese Service ](https://hamdan.kr/jp.html) ( 2021.4 ~ 20xx.xx )   
-인소의 법칙 챗봇 일본 서비스를 현재 제작중에 있습니다.
-ネット小説の法則  チャットボット 日本のサービスは現在準備中です。
-
-- [GoodByeCorona_Collaboration](https://github.com/dhlife09/Corona-19-API) ( 2021.02.24 ~ 20xx.xx )    
-굿바이코로나의 제휴로, 인소의 법칙 챗봇에 코로나19 서비스를 제공하고 있습니다.
----
+- [South Korea, Japan EarthQuake BoradCast](https://www.youtube.com/channel/UC1qV_PQoqh5gIoOLgpKZgvA) ( 2021.03 ~ 20xx.xx )    
+한국, 일본 실시간 지진 정보를 유튜브를 통해 송출하고 있습니다.
 
 **개발자가 진로 희망인 IT , 컴퓨터분야 등에 관심 있는 고등학교 2학년 엔느입니다 :)**
 
