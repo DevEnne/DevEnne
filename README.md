@@ -20,7 +20,7 @@ Hi there 👋
 - [South Korea, Japan EarthQuake broadcast](https://earthquake.co.kr) ( 2021.03 ~ 20xx.xx )    
 한국, 일본 실시간 지진 정보를 유튜브를 통해 송출하고 있습니다.
 
-**개발자가 진로 희망인 IT , 컴퓨터분야 등에 관심 있는 대학교 1학년 신입 엔느입니다 :)**
+**개발자가 진로 희망인 IT , 컴퓨터분야 등에 관심 있는 대학교 1학년 신입생 엔느입니다 :)**
 
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevEnne%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> </a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1509@gmail.com)](mailto:1509@gmail.com)
 
